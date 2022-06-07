@@ -1,0 +1,82 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    margin-bottom: 50px;
+}
+.first-bg{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+
+}
+.see_all{
+    text-align: right;
+}
+.see_all_a{
+    color: orange;
+    text-decoration: none;
+}
+.card{
+    border: none;
+    text-align: center;
+    box-shadow: 2px 2px 10px lightgray;
+   
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.top{
+    margin-bottom: 50px;
+}
+.cat{
+    text-align: center;
+    margin-top: 100px;
+}
+.hr{
+    border: 3px solid rgb(255, 68, 0);
+    width: 100px;
+    font-weight: bold;
+    border-radius: 50px;
+    margin: 10px auto;
+}
+.cat-center{
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin-right: 30px;
+    box-shadow: 1px 1px 10px lightgray;
+    border-radius: 10px;
+    border: none;
+}
+.cat-img{
+    width: 100%;
+}
+.cat-margin{
+    text-align: center;
+}
+.bag{
+    margin-top: 20px;
+}
+.shoes{
+    margin-top: 30px;
+}
+.cat-shoes{
+    margin-bottom: 30px;
+}
+.cat-last{
+    width: 50%;
+}
+
+
+
+
+
